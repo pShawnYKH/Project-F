@@ -1,0 +1,38 @@
+# === Java ===
+*.class
+*.jar
+*.war
+*.ear
+
+# === Gradle ===
+.gradle/
+build/
+out/
+!gradle/wrapper/gradle-wrapper.jar
+
+# === IntelliJ IDEA / Eclipse / VSCode ===
+.classpath
+.project
+.idea/
+*.iml
+.vscode/
+
+# === OS Files ===
+.DS_Store
+Thumbs.db
+
+# === Logs ===
+*.log
+
+# === LibGDX Specific ===
+android/assets/bin/
+core/assets/bin/
+core/assets/.DS_Store
+desktop/bin/
+html/bin/
+ios/bin/
+
+# === Other temporary files ===
+*.tmp
+*.bak
+*.swp

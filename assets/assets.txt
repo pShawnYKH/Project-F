@@ -1,0 +1,18 @@
+Sprite-0003.aseprite
+TiledEditor/tilesets/dirt1.tsx
+TiledEditor/tilesets/dirtspritesheet.tsx
+TiledEditor/world/baseworld.tmx
+dirtspritesheet.png
+libgdx.png
+playerModel1.png
+tiles/dirt tiles/dirt1.png
+tiles/dirt tiles/dirt10.png
+tiles/dirt tiles/dirt11.png
+tiles/dirt tiles/dirt2.png
+tiles/dirt tiles/dirt3.png
+tiles/dirt tiles/dirt4.png
+tiles/dirt tiles/dirt5.png
+tiles/dirt tiles/dirt6.png
+tiles/dirt tiles/dirt7.png
+tiles/dirt tiles/dirt8.png
+tiles/dirt tiles/dirt9.png
