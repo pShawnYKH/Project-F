@@ -1,3 +1,4 @@
+Sprite-0003.aseprite
 TiledEditor/tilesets/dirt1.tsx
 TiledEditor/tilesets/dirtspritesheet.tsx
 TiledEditor/world/baseworld.tmx

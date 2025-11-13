@@ -1,6 +1,6 @@
 package gameF.majorStuff;
 
-public class LogicUpdateRate {
+public final class LogicUpdateRate {
     //never changes in under all circumstances
     public static final int UPDATE_LOGIC_RATE = 40; //updates logic 40 times per sec
     public static final float UPDATES_IN_SECOND = 1f / UPDATE_LOGIC_RATE;
@@ -8,7 +8,7 @@ public class LogicUpdateRate {
     //it stores have much time has passed for the function to know when to update the logic
     private float currTimeAccumulated = 0f;
 
-    public float getCurrTimeAccumulated() { //getter
+    public float getCurrTimeAccumulated() { //getter for MainGame class
         return currTimeAccumulated;
     }
 
