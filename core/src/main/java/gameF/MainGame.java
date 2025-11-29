@@ -25,7 +25,7 @@ public class MainGame extends ApplicationAdapter {
         batch = new SpriteBatch();
         logicUpdateRate = new LogicUpdateRate();
 
-        gameMapping = new GameMapping(50, 40, null);
+        gameMapping = new GameMapping(50, 40, null); //size of map
         graphics = new GameGraphics(gameMapping);
         gameMapping.initializeRenderer(graphics);
 

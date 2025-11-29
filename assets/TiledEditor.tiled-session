@@ -1,0 +1,74 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "BaseWorld.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "": {
+            "scaleInDock": 4,
+            "scaleInEditor": 11
+        },
+        "#Dirt": {
+            "dynamicWrapping": true,
+            "scaleInEditor": 1
+        },
+        "#dirtspritesheet": {
+            "dynamicWrapping": true
+        },
+        ":/automap-tiles.tsx": {
+            "scaleInDock": 1
+        },
+        "BaseWorld.tmx": {
+            "scale": 1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 397,
+                "y": 387
+            }
+        },
+        "BaseWorld.tmx#dirtspritesheet": {
+            "scaleInDock": 4,
+            "scaleInEditor": 1
+        },
+        "BaseWorld.tmx#grassspritesheet": {
+            "scaleInDock": 2,
+            "scaleInEditor": 11
+        },
+        "untitled.tmx": {
+            "scale": 2,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 199,
+                "y": 193
+            }
+        },
+        "untitled.tmx#dirtspritesheet": {
+            "scaleInDock": 4
+        },
+        "untitled.tmx#grassspritesheet": {
+            "scaleInDock": 4
+        }
+    },
+    "last.imagePath": "C:/PERSONAL PROJECTS/CODE(GAMES)/Project-F/assets",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 19,
+    "map.tileWidth": 19,
+    "openFiles": [
+        "BaseWorld.tmx"
+    ],
+    "project": "TiledEditor.tiled-project",
+    "recentFiles": [
+        "BaseWorld.tmx",
+        "untitled.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.tileSize": {
+        "height": 19,
+        "width": 19
+    },
+    "tileset.type": 0
+}

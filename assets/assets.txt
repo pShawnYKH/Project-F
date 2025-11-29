@@ -1,8 +1,9 @@
+BaseWorld.tmx
 Sprite-0003.aseprite
-TiledEditor/tilesets/dirt1.tsx
-TiledEditor/tilesets/dirtspritesheet.tsx
-TiledEditor/world/baseworld.tmx
+TiledEditor.tiled-project
+TiledEditor.tiled-session
 dirtspritesheet.png
+grassspritesheet.png
 libgdx.png
 playerModel1.png
 tiles/dirt tiles/dirt1.png

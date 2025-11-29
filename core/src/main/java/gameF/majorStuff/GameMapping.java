@@ -6,7 +6,7 @@ import com.badlogic.gdx.maps.tiled.TiledMap;
 import com.badlogic.gdx.maps.tiled.TmxMapLoader;
 import com.badlogic.gdx.maps.tiled.renderers.OrthogonalTiledMapRenderer;
 
-import gameF.majorStuff.minorStuff.Tile; // Ensure Tile is imported correctly
+import gameF.majorStuff.minorStuff.Tile;
 
 public class GameMapping {
     private final Tile[][] map;
@@ -28,7 +28,7 @@ public class GameMapping {
                 map[x][y] = new Tile("tiles/dirt tiles/dirt" + variant + ".png", true);
             }
         }
-        tiledMap = new TmxMapLoader().load("TiledEditor/world/baseworld.tmx"); //the tiled map editor
+        tiledMap = new TmxMapLoader().load("BaseWorld.tmx"); //the tiled map editor BROKEN PATH RN FIX IT AFTER MAKING THE TILE MAP
     }
 
     public void initializeRenderer(GameGraphics graphicsInstance) {
