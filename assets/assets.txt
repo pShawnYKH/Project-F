@@ -2,9 +2,12 @@ BaseWorld.tmx
 Sprite-0003.aseprite
 TiledEditor.tiled-project
 TiledEditor.tiled-session
+UI.aseprite
 dirtspritesheet.png
 grassspritesheet.png
 libgdx.png
+menumap/Sprite-0001.aseprite
+menumap/menu_bg.png
 playerModel1.png
 tiles/dirt tiles/dirt1.png
 tiles/dirt tiles/dirt10.png
